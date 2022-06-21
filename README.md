@@ -1,7 +1,7 @@
 ### Holla, I'm Marvelous Olaoluwa! 👋
 
 - 🔭 I’m currently working on Kubernetes Microservices
-- 🌱 I’m currently learning IAC (Ansible, Cloudformation & Terraform), Golang and JavaScript
+- 🌱 I’m currently learning Kubernetes, Cloudformation, Ansible, Terraform, Golang and JavaScript
 - 👯 I’m looking to collaborate on building foodservice App
 - 🤔 I’m looking for help with managing microservice on Kubernetes
 - 💬 Ask me about any tech related stuff
