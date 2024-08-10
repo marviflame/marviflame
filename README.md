@@ -1,7 +1,7 @@
 Hello, I'm Marvelous Olaoluwa! 👋
 
-- 🔭 I’m currently working on a Django
-- 🌱 I’m currently learning Backend (Django)
+- 🔭 I’m currently working on Python Django
+- 🌱 I’m currently learning Backend Web Development (Django)
 - 👯 I’m looking to collaborate on Cloud and DevOp
 - 🤔 I’m hoping to connect with other DevOps Engineers
 - 💬 Ask me about any tech related stuff
