@@ -1,9 +1,9 @@
 Hello, I'm Marvelous Olaoluwa! 👋
 
-- 🔭 I’m currently working on a CI/CD Pipeline for a banking app Project
-- 🌱 I’m currently learning GitOps and ArgoCD
-- 👯 I’m looking to collaborate on Cloud and DevOps
-- 🤔 I’m hoping to connect with other DevOps Engineer
+- 🔭 I’m currently working on a Django
+- 🌱 I’m currently learning Backend (Django)
+- 👯 I’m looking to collaborate on Cloud and DevOp
+- 🤔 I’m hoping to connect with other DevOps Engineers
 - 💬 Ask me about any tech related stuff
 - 📫 How to reach me: [Twitter - @marvichenko](http://twitter.com/marvichenko) [Instagram - @marviflame](http://instagram.com/marviflame)
 - 😄 Pronouns: He/His
